@@ -1,0 +1,4 @@
+---
+permalink: /doc/
+---
+# doc2

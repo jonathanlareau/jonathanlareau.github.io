@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+order: 100
+navigation_weight: 100
 ---
 
 # One step at a time
