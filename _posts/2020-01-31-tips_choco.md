@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Chocolatey for Windows"
-date:   2020-01-31 11:11:111 -1111
+date:   2020-01-31 11:11:11 -1111
 categories: tips
 tags: devops
 ---
