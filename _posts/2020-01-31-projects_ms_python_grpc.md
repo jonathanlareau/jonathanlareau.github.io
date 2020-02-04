@@ -3,6 +3,7 @@ layout: default
 title:  "Microservices App developed in Python using Grpc"
 date:   2020-01-31 11:11:11 -1111
 categories: projects
+permalink: /python-grpc/
 ---
 <h1>{{ page.title }}</h1>
 
