@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 permalink: /projects/
+masthead: /favicon.ico
 ---
 <h1>{{ page.title }}</h1>
 *Because nothing is like pratice*

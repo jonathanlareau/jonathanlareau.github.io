@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 permalink: /blogs/
+masthead: /favicon.ico
 ---
 <h1>{{ page.title }}</h1>
 {% for category in site.categories %}
