@@ -15,8 +15,10 @@ permalink: /kafka-win/
 
 ### Run
 - zookeeper
+
 C:\kafka_2.13-2.4.0\bin\windows/zookeeper-server-start.bat C:\kafka_2.13-2.4.0\config/zookeeper.properties
 - kafka
+
 C:\kafka_2.13-2.4.0\bin\windows/kafka-server-start.bat C:\kafka_2.13-2.4.0\config/server.properties
 
 ### Tests
