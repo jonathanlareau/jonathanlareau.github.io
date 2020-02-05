@@ -16,7 +16,7 @@
 title: One step at a time
 email: jonathan.lareau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I just find a way the keep my tips and notes accessible easly from anywhere.
+  I just want a way to keep my tips and notes easily accessible from anywhere.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonathanlareau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonathanlareau

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to -MY- Jekyll!"
+title:  "Welcome to 'MY' Jekyll!"
 date:   2020-01-25 11:11:11 -1111
 categories: blogs
 ---
