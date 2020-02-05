@@ -8,12 +8,11 @@ navigation_weight: 100
 
 # One step at a time
 
-Just another technology enthusiasm.
+Just another enthusiasm for technology.
 
-I just find a way the keep my tips and notes accessible easly from anywhere.
+I just want a way to keep my tips and notes easily accessible from anywhere.
 
-Who knows, may be this can be usefull for some else.
-
+Who knows, maybe this can be useful for some else.
 
 # You can find me on ...
 

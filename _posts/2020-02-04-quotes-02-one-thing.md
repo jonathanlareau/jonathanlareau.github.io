@@ -6,6 +6,8 @@ categories: quotes
 ---
 <h1>{{ page.title }}</h1>
 
+A bit like, one step at a time, to build a good system, it is better that each of these parts do only one thing, but do it well.
+
 *The Unix philosophy...*
 
 [https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
