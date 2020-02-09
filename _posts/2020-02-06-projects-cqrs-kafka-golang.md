@@ -2,7 +2,7 @@
 layout: default
 title:  "Implementation of CQRS with kafka and Golang"
 date:   2020-02-06 11:11:11 -1111
-categories: projects
+categories: projects blogs
 permalink: /kafka-chat/
 ---
 <h1>{{ page.title }}</h1>
