@@ -2,7 +2,7 @@
 layout: post
 title: "Zeebe (Camunda) Links"
 date: 2020-02-11 11:11:11 -1111
-categories: blogs
+categories: tips
 ---
 <h1>{{ page.title }}</h1>
 
